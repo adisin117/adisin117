@@ -8,5 +8,5 @@ My name is Adarsh Singh and I'm just starting my development journey.
 🎯Goals : Full Stack Development
 
 ## 🚀 Languages and Tools I Use
-![c logo](image.png) ![python](image-1.png) ![html5](image-2.png)![css3](image-3.png)
+C | Python | HTML5 | CSS3
 
