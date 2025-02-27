@@ -1,7 +1,4 @@
 # Hello people, Adarsh here !!
-
-My name is Adarsh Singh and I'm just starting my development journey.
-
 ## About Me
 
 🔳 I'm currently learning Web development and ML.
