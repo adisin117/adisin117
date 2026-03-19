@@ -3,8 +3,8 @@
 
 🔳 I'm currently learning Web development and ML
 
-🎯Goals : Full Stack Development
+🎯Goals : Machine Learing Engineer
 
 ## 🚀 Languages and Tools I Use
-C | Python | HTML5 | CSS3
+C | Python | HTML5 | CSS3 | Java | 
 
